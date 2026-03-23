@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "nombre": { "type": "string" },
+    "precio": { "type": "number", "minimum": 1 },
+    "stock":  { "type": "integer", "minimum": 1 },
+    "categoria": { "enum": ["libros", "ropa", "informatica"] }
+  },
+  "required": ["nombre", "precio", "stock", "categoria"]
+}
