@@ -1,18 +1,13 @@
 {
-  "productos": [
-    {
+  "productos": [{
       "nombre": "camiseta",
       "precio": 2,
       "stock": 15,
-      "categoria": "ropa"
-    },
-    {
+      "categoria": "ropa"}, {
       "nombre": "1984",
       "precio": 2,
       "stock": 15,
-      "categoria": "libros"
-    },
-    {
+      "categoria": "libros"}, {
       "nombre": "ram",
       "precio": 2,
       "stock": 15,

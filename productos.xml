@@ -1,0 +1,20 @@
+<prductos>
+    <producto>
+        <nombre>camiseta</nombre>
+        <precio>2</precio>
+        <stock>15</stock>
+        <categoria>ropa</categoria>
+    </producto>
+    <producto>
+        <nombre>1984</nombre>
+        <precio>2</precio>
+        <stock>15</stock>
+        <categoria>libros</categoria>
+    </producto>
+    <producto>
+        <nombre>ram</nombre>
+        <precio>2</precio>
+        <stock>15</stock>
+        <categoria>informatica</categoria>
+    </producto>
+</prductos>
