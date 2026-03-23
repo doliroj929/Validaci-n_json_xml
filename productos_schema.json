@@ -8,3 +8,4 @@
   },
   "required": ["nombre", "precio", "stock", "categoria"]
 }
+
