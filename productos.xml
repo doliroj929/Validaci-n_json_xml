@@ -8,7 +8,7 @@
     </producto>
     <producto>
         <nombre>1984</nombre>
-        <precio>"2"</precio>
+        <precio>2</precio>
         <stock>15</stock>
         <categoria>libros</categoria>
     </producto>
